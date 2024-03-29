@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 *.env
 
+keycloak/themes/anbu-v1-keycloak-theme-6.1.5.jar
+/home/anbu/anbu/drillapp/keycloak/themes/anbu-v1-keycloak-theme-6.1.5.jar
