@@ -1,0 +1,2 @@
+# have to add the theme to the git ignore because of file size exceeding 100MB limit
+keycloak/themes/anbu-v1-keycloak-theme-6.1.5.jar
